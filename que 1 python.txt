@@ -1,0 +1,11 @@
+Que 1  
+Types of Errors and define
+There are two types of errors in python programming 
+syntax eroor and logical errorsor Exceptions
+syntax Error
+Whenever we do not write the proper syntax of the python programming language then 
+the python interpreter throws an eroor known as syntax Eroor.
+
+logical error
+They occur when the programme runs without crashing, but produces an incorrect result
+is known as logical error.

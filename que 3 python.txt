@@ -1,0 +1,6 @@
+Que 3
+Define user defined exceptions 
+
+sometimes we have to define and raise our own exceptions in the programme 
+explictly to indicate that some thing went wrong.
+such type of exceptions are known as user defined exceptions.

@@ -1,0 +1,14 @@
+Que 2
+Expatation Handling
+It is exception is an event, which occurs during the excecution of a programme
+that discrutps the normal flow of the programms instructions
+
+
+syntax of exetion handling
+try:
+    a=10
+    b=2
+    print("The division of a and b is:",a/b)
+except:
+    print("No,cannot exception")
+    print("Thanks to exception handling")

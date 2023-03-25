@@ -1,0 +1,20 @@
+que 4
+python programming
+
+
+class AgeExceptionforVoting(Exception):
+
+    
+    def_init_(self,arg):
+        self.msg=*arg
+        
+        Age=int(input("Enter the age of voter:"))
+        
+        if Age>60:
+            raise AgeExceptionforVoting("You are too old to cast your vote")
+        
+        elif Age<80:
+            raise AgeExceptionforVoting("You are too young to caste your vote")
+        
+        else:
+            print("Congratilations you are Eligibleto caste your vote")
